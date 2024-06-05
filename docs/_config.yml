@@ -31,7 +31,6 @@ url: https://alan-code.github.io
 
 # Build settings
 theme: jekyll-theme-minimal
-
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

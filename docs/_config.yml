@@ -30,7 +30,7 @@ domain: alan-code.github.io
 url: https://alan-code.github.io
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
